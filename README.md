@@ -1,4 +1,4 @@
-# SAM3S4C
+# SAM3S4C Sensor_Board
 Build a Board that will be based on ARM SAM3S4C and have almost all sensors
 The main part of the system will be the Atmel ATSAM3S4CA-AU, the Sensors that will be placed on the same board will be
 - The Gyroscop,
@@ -11,9 +11,8 @@ The main part of the system will be the Atmel ATSAM3S4CA-AU, the Sensors that wi
 - Touch contact,
 - And Even a Pulse Sensor (ECG),
 
- 
 The project will start by designing the schematic using Eagle Software and after it will be the PCB and next it will be the Firmware and the other test routines of each componenets.
 
-We are waiting for you all to participate with us to properly acheive this project
+We are waiting for you all to participate with us to properly acheive this project.
 
 Thanks a lot to you all.
